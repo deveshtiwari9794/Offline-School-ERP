@@ -18,6 +18,25 @@ The system provides modules for student admission, student search, fee managemen
 * PyInstaller
 
 ## Main Features
+## Screenshots
+
+### Login Screen
+![Login Screen](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Student Admission
+![Student Admission](screenshots/admission.png)
+
+### Fees Management
+![Fees Management](screenshots/fees%20list.png)
+
+### Student List
+![Student List](screenshots/student%20list.png)
+
+### Report Card
+![Report Card](screenshots/report.png)
 
 ### 1. Student Admission
 
